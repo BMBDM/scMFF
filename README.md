@@ -30,7 +30,7 @@ model_name = 'KNN'
 scMFF_model(dir, model_name)
   ```
 ### Input
-The input data should be in CSV format and placed in the example_data/ directory:
+The input data should be in CSV format and placed in the Example_data/ directory:
 - expr.csv
 - cluster.csv
 

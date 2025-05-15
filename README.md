@@ -10,7 +10,7 @@ scMFF is a Python toolkit for cell type classification using clinical transcript
 - Clone the repository:
   ```
   git clone https://github.com/BMBDM/scMFF.git
-  cd scKSFD
+  cd scMFF
   ```
 - Install the dependencies:
   ```

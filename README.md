@@ -81,6 +81,7 @@ PS：Feature Embedding Files and Their Dimensions
 | Feature9   | Fusion_residual-expr-scpsd-scgnn-pca.txt.gz                             | (2998, 128)    |
 | Feature10  | Fusion_transformer-expr-scpsd-scgnn-pca.txt.gz                          | (2998, 128)    |
 
+- 2998 cells
 
 ## Contact Us
 If you have any questions or suggestions, please contact us via email: [sunn19@tsinghua.org.cn].

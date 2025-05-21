@@ -1,4 +1,4 @@
-# scMFF: A Machine Learning Framework with Multiple Features Fusion Strategies for Cell Type Identification 
+# scMFF: A Machine Learning Framework with Multiple Feature Fusion Strategies for Cell Type Identification 
 
 ## Project Overview
 scMFF is a Python toolkit for cell type classification using clinical transcriptome data, implementing a model with Multiple Features Fusion Strategies. 
